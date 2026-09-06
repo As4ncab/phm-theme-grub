@@ -33,40 +33,8 @@ terminal-border: "0"
   width = 100%
   align = "center"
   id = "__timeout__"
-  # DE
-  # text = "Start in %d Sekunden."
   # EN
-  text = "Booting in %d seconds"
-  # ES
-  # text = "Arranque en %d segundos"
-  # FR
-  # text = "Démarrage automatique dans %d secondes"
-  # HU
-  # text = "A kijelölt bejegyzés automatikusan elindul %d másodperc múlva."
-  # IT
-  # text = "Avvio in %d secondi"
-  # KO
-  # text = "%d 초 후 부팅됩니다."
-  # LV
-  # text = "Inicializē pēc %d sekundēm."
-  # NO
-  # text = "Starter om %d sekunder"
-  # PL
-  # text = "Start w ciągu %d sekund"
-  # PT
-  # text = "Arranque automático dentro de %d segundos"
-  # RU
-  # text = "Загрузка выбранного пункта через %d сек."
-  # RUE
-  # text = "Автоматичноє терьханя начне ся через %d секунд"
-  # TR
-  # text = "%d saniye sonra önyükleme başlayacak."
-  # UA
-  # text = "Автоматичне завантаження розпочнеться через %d сек."
-  # zh_CN
-  # text = "在 %d 秒内启动"
-  # zh_TW
-  # text = "在 %d 秒內啟動"
+  text = "%d"
   color = "#55946c"
   font = "Fixedsys Regular 32"
 }

@@ -1,6 +1,6 @@
 # Global properties
 title-text: ""
-desktop-image: "background3.png"
+desktop-image: "background4.png"
 desktop-color: "#0a2412"
 terminal-font: "Fixedsys Regular 32"
 terminal-box: "terminal_box_*.png"
@@ -34,7 +34,7 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   # EN
-  text = "%d"
+  text = "SETTING DEFAULT DESTINATION IN %d SECONDS"
   color = "#55946c"
   font = "Fixedsys Regular 32"
 }

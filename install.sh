@@ -69,7 +69,7 @@ else
 fi
 
 echo 'Fetching and unpacking theme'
-wget -O - wget -O - https://github.com/As4ncab/phm-theme-grub/archive/refs/heads/main.zip | tar -xzf - --strip-components=1
+wget -O - https://github.com/As4ncab/phm-theme-grub/archive/refs/heads/main.zip | tar -xzf - --strip-components=1
 
 if [[ "$INSTALLER_LANG" != "English" ]]; then
     echo "Changing language to ${INSTALLER_LANG}"

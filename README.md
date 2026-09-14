@@ -17,28 +17,6 @@ Supported languages are: Chinese (simplified), Chinese (traditional), English, F
 > [!WARNING]  
 > For this custom theme I have used the software [Grub Customizer](https://forums.linuxmint.com/viewtopic.php?t=208452) to make a custom name for each option. This software may not be available for all users.
 
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-Also available the tip and caution alerts:
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-Tip
-
-Helpful advice for doing things better or more easily.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-
 - **Secure way:**
 
   - Download install script:
@@ -63,6 +41,9 @@ Helpful advice for doing things better or more easily.
 
 <br>
 
+> [!TIP]  
+> If your computer can't find the path to a file, you can find the link manually instead from Github.
+
 You can use `--lang` option to select language and disable interactive language selection, e.g.:
 
 ```sh
@@ -76,10 +57,3 @@ wget -O- https://github.com/shvchk/fallout-grub-theme/raw/master/install.sh | ba
 ```
 
 Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install.sh)
-
----
-
-### See also
-
-- [Poly light GRUB theme](https://github.com/shvchk/poly-light)
-- [Poly dark GRUB theme](https://github.com/shvchk/poly-dark)

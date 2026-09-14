@@ -1,13 +1,43 @@
-## Fallout GRUB theme
+# Project Hail Mary GRUB theme
 
-Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
+> [!IMPORTANT]  
+> I took an existing GRUB theme and only changed a few things like images and messages. Installation details and the original design can be found [here](https://github.com/shvchk/fallout-grub-theme).
 
-![](https://i.imgur.com/7LUYwTn.gif)
+Supported languages are: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
+
+![Example of GRUB startup](mockup.png)
+
+> [!NOTE]  
+> This is just a rough example of how it would look like.
 
 ---
 
+## Installation/Updates
 
-### Installation / update
+> [!WARNING]  
+> For this custom theme I have used the software [Grub Customizer](https://forums.linuxmint.com/viewtopic.php?t=208452) to make a custom name for each option. This software may not be available for all users.
+
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+Also available the tip and caution alerts:
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+Tip
+
+Helpful advice for doing things better or more easily.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 
 - **Secure way:**
 

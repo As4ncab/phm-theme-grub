@@ -1,6 +1,6 @@
 # Global properties
 title-text: ""
-desktop-image: "background4.png"
+desktop-image: "background.png"
 desktop-color: "#0a2412"
 terminal-font: "Fixedsys Regular 32"
 terminal-box: "terminal_box_*.png"
